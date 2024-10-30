@@ -1,0 +1,16 @@
+{
+  "name": "combinations-app",
+  "version": "1.0.0",
+  "description": "API to generate combinations",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3"
+  }
+}
